@@ -1,0 +1,34 @@
+[
+  {
+    "id": "3",
+    "nombre": "remera",
+    "precio": "453",
+    "descripcion": "blanca",
+    "marca": "LLL",
+    "stock": "56"
+  },
+  {
+    "id": "5",
+    "nombre": "barbijo",
+    "precio": "232",
+    "descripcion": "negro",
+    "marca": "LLL",
+    "stock": "45"
+  },
+  {
+    "id": "2",
+    "nombre": "taza",
+    "precio": "877",
+    "descripcion": "violeta",
+    "marca": "jjj",
+    "stock": "32"
+  },
+  {
+    "id": "1",
+    "nombre": "llavero",
+    "precio": "2333",
+    "descripcion": "",
+    "marca": "",
+    "stock": ""
+  }
+]
